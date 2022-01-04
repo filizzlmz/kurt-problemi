@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">KurtProblemi</string>
+
+    <string name="tv_array_size">Kaç tane kurt gireceksiniz?</string>
+    <string name="tv_enter_array">Kurt türlerini giriniz</string>
+    <string name="btn_calculate">Hesapla</string>
+
+    <string name="tv_result">Cevap: %1$s</string>
+</resources>
